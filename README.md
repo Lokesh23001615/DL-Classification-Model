@@ -37,9 +37,9 @@ Display the test accuracy, confusion matrix, and classification report.
 
 ## PROGRAM
 
-### Name: NARAMALA KUMARTEJA
+### Name: Lokesh M
 
-### Register Number: 212223230132
+### Register Number: 212223230114
 
 ```python
 import torch
